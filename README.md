@@ -2,6 +2,7 @@
 
 **Data Scientist @ Global IT company** (Japan)  
 B.S. in Data Science 
+
 Applied ML / Experimentation / Causal Inference / Recommender Systems
 - Focus: reproducible analysis, reliable evaluation, and shipping models responsibly
 - Open to: OSS collaboration / discussions on metrics, validation, and production ML
